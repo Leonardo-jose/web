@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+<p align="center">
+<img src="./src/assets/Readme.png" width="70%">
+</p>
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
